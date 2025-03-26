@@ -1,0 +1,7 @@
+Origin: MyRepo
+Label: Myrepo
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: My Cydia Repo
